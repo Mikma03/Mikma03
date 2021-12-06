@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Mikma03/Mikma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1HtHt1wTCosAwWAwqOXfOOYz138od9yJ0 " />
+</p>
 
 Here are some ideas to get you started:
 
