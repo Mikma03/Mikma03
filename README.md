@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1HtHt1wTCosAwWAwqOXfOOYz138od9yJ0 " />
+  <img src="https://drive.google.com/uc?export=view&id=1HtOHCm7JCRbTrFOUe1lOusl_GarzWIPv " />
 </p>
 
 Here are some ideas to get you started:
