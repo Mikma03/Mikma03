@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/miko%C5%82aj-ma%C5%9Blanka/">
   <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                          </a>
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+<a href="https://medium.com/@Mikolaj_Maslanka">
+  <img alt="Qries" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+                         </a>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1HtOHCm7JCRbTrFOUe1lOusl_GarzWIPv " />
 </p>
@@ -21,5 +21,3 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Mikma03
