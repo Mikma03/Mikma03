@@ -26,7 +26,6 @@
 - ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
  
  <p>&nbsp;</p>
- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
