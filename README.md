@@ -14,3 +14,4 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03)](https://github.com/anuraghazra/github-readme-stats)
