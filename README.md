@@ -1,5 +1,10 @@
 # Hi there 👋
 
+<a href="https://www.linkedin.com/in/miko%C5%82aj-ma%C5%9Blanka/">
+  <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+   width=150" height="70">
+                         </a>
+
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <p align="center">
@@ -16,3 +21,6 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 - ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={Mikma03}
