@@ -1,8 +1,7 @@
 # Hi there 👋
 
 <a href="https://www.linkedin.com/in/miko%C5%82aj-ma%C5%9Blanka/">
-  <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-   width=150" height="70">
+  <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                          </a>
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
