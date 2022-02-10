@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I'm Mikołaj!
 
 <p>&nbsp;</p>
 
