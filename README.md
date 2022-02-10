@@ -27,6 +27,7 @@
  
  <p>&nbsp;</p>
  
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
