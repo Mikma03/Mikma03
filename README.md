@@ -9,7 +9,7 @@
   <img alt="Qries" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
                          </a>
 <a href="https://stackoverflow.com/users/16108057/mikolaj">
-  <img alt="Qries" src="	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img alt="Qries" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
                          </a>
 
 <p>&nbsp;</p>
