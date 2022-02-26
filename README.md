@@ -4,18 +4,13 @@
 
 <a href="https://www.linkedin.com/in/miko%C5%82aj-ma%C5%9Blanka/">
   <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                         </a>
-                         <p>&nbsp;</p>
-                         
+                         </a><p>&nbsp;</p>
 <a href="https://medium.com/@Mikolaj_Maslanka">
   <img alt="Qries" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-                         </a>
-                         <p>&nbsp;</p>
-                         
+                         </a><p>&nbsp;</p>
 <a href="https://stackoverflow.com/users/16108057/mikolaj">
   <img alt="Qries" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-                         </a>
-                         <p>&nbsp;</p>
+                         </a><p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
