@@ -15,9 +15,9 @@
                          </a>
 <!--                          <p>&nbsp;</p> -->
 
-<a href="https://www.buymeacoffee.com/Mikolaj">
+<!-- <a href="https://www.buymeacoffee.com/Mikolaj">
   <img alt="Qries" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-                         </a>
+                         </a> -->
                          
 <a href="https://quantumcomputing.stackexchange.com/users/18996/mikolaj?tab=profile">
   <img alt="Qries" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white">
@@ -41,10 +41,10 @@
  
  <p>&nbsp;</p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikma03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 
 <!-- ###################################################################### -->
 
