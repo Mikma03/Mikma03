@@ -31,11 +31,11 @@
 
 <p>&nbsp;</p>
 
-- 🔭 I’m currently working on ... using Machine Learning for business cases and financial markets.
-- 🌱 I’m currently learning ... everything I can about Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on ... community projects especially related to Deep Learning!
-- 💬 Ask me about ... Machine Learning, Microservices or Cloud.
-- 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/mikołaj-maślanka)
+- 🔭 I’m currently working on ... using Machine Learning for business cases and financial markets --> building quant strategies.
+- 🌱 I’m currently learning ... everything I can about and Deep Learning and DevOps.
+- 👯 I’m looking to collaborate on ... community projects especially related to quantitative finance combined with public clouds, especially Azure or AWS!
+- 💬 Ask me about ... Machine Learning, Microservices, Cloud or Python.
+- 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/mikołaj-maślanka) or [G-mail](mikolaj.mslanka@gmail.com)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
  
