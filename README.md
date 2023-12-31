@@ -43,11 +43,17 @@ Skills and Approach
 I excel in transforming initial concepts into pioneering and functional solutions. My hands-on approach focuses on seamless collaboration with diverse teams and adapting quickly to evolving project requirements. This has led to more efficient project completions and the delivery of high-quality outcomes. My core competencies include:
 
 • Designing and implementing cloud architectures (AWS, Azure)
+
 • Data platform solutions development
+
 • Applying machine learning for data analysis
+
 • Implementing serverless architecture patterns
+
 • Utilizing DevOps principles and tools in software systems
+
 • Programming skills: I'm trying to be language agnostic :)
+
 • Ability to translate business requirements into functional products
 
 
