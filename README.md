@@ -37,6 +37,7 @@ Spearheaded the transformation of initial concepts into pioneering and practical
 
 Demonstrated an open and curious mindset by seeking out new technologies and approaches, staying up to date with industry trends.
 
+<p>&nbsp;</p>
 
 Skills and Approach
 
@@ -56,16 +57,20 @@ I excel in transforming initial concepts into pioneering and functional solution
 
 • Ability to translate business requirements into functional products
 
+<p>&nbsp;</p>
 
 Personal interests:
 
 I am passionate about exploring new technologies and solutions, staying current with industry trends, and participating in workshops and conferences to expand my technical knowledge. My interests also include evolving data systems, cybersecurity, and artificial intelligence. Moreover, I'm keen on about financial markets, with an interest in leveraging data to drive investment decisions.
 
+<p>&nbsp;</p>
 
 Contact Information:
 
 For collaboration or inquiries, feel free to contact me at mikolaj@datainnovations.io
 I'm always eager to discuss new technology opportunities and how my skills can contribute to innovative projects.
+
+<p>&nbsp;</p>
 
 Programming: Python, Julia, SQL, PowerShell, Bash.
 
