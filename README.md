@@ -69,24 +69,20 @@ Interests: Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Fin
  <p>&nbsp;</p>
 
 
-- 🔭 I’m currently working on ... using Machine Learning for business cases and financial markets --> building quant strategies.
+- 🔭 I’m currently working on ... Clouds system architecture, data engineering, Kubernetes.
 - 🌱 I’m currently learning ... everything I can about and Deep Learning and DevOps.
-- 👯 I’m looking to collaborate on ... community projects especially related to quantitative finance combined with public clouds, especially Azure or AWS!
-- 💬 Ask me about ... Machine Learning, Microservices, Data Engineering, Cloud or Python.
+- 👯 I’m looking to collaborate on ... community projects especially those related to microservices, and framework orchestrators.
+- 💬 Ask me about ... Machine Learning, Microservices, Data Engineering, Cloud Architecture, Python or Rust.
 - 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/mikołaj-maślanka) or [G-mail](mikolaj.mslanka@gmail.com)
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
+- ⚡ Fun fact... I've read every book on artificial intelligence.
  
- 
+
+<!-- 
 <p>&nbsp;</p>
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <p>&nbsp;</p>
- 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikma03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
