@@ -39,6 +39,7 @@ Demonstrated an open and curious mindset by seeking out new technologies and app
 
 <p>&nbsp;</p>
 
+
 Skills and Approach
 
 I excel in transforming initial concepts into pioneering and functional solutions. My hands-on approach focuses on seamless collaboration with diverse teams and adapting quickly to evolving project requirements. This has led to more efficient project completions and the delivery of high-quality outcomes. My core competencies include:
