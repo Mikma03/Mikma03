@@ -31,17 +31,35 @@
 
 <p>&nbsp;</p>
 
-Experienced data professional (background in quantitative methods) with a proven track record in developing, and delivering cutting-edge technical solutions and consultancy services in agile and international environments for firms across the United States, and the United Kingdom, especially within the financial industry. 
+Software engineer & data system architect with experience in developing and delivering technical consultancy services in agile methodology & international environments. Certificated Microsoft Azure Data Engineer & Data Scientist, and AWS Solution Architect Associate.
 
-Achievement-oriented, cooperative, outstanding communication skills, and easily adaptable to new circumstances.
+Spearheaded the transformation of initial concepts into pioneering and practical solutions. Collaborated with diverse teams to adapt seamlessly to changing project requirements, contributing to improvement in project completion time and ensuring successful delivery of high-quality outcomes. 
 
-Core competencies include:
-- Machine learning, Deep Learning, Statistics, and Data Analysis & Engineering.
-- Clouds architecture and resources: AWS, Azure.
-- Serverless architecture.
-- DevOps principles and tools implemented in the data field.
-- Data Modeling, Data Movement and Data Processing.
-- Translating business requirements into functional products.
+Demonstrated an open and curious mindset by seeking out new technologies and approaches, staying up to date with industry trends.
+
+
+Skills and Approach
+
+I excel in transforming initial concepts into pioneering and functional solutions. My hands-on approach focuses on seamless collaboration with diverse teams and adapting quickly to evolving project requirements. This has led to more efficient project completions and the delivery of high-quality outcomes. My core competencies include:
+
+• Designing and implementing cloud architectures (AWS, Azure)
+• Data platform solutions development
+• Applying machine learning for data analysis
+• Implementing serverless architecture patterns
+• Utilizing DevOps principles and tools in software systems
+• Programming skills: I'm trying to be language agnostic :)
+• Ability to translate business requirements into functional products
+
+
+Personal interests:
+
+I am passionate about exploring new technologies and solutions, staying current with industry trends, and participating in workshops and conferences to expand my technical knowledge. My interests also include evolving data systems, cybersecurity, and artificial intelligence. Moreover, I'm keen on about financial markets, with an interest in leveraging data to drive investment decisions.
+
+
+Contact Information:
+
+For collaboration or inquiries, feel free to contact me at mikolaj@datainnovations.io
+I'm always eager to discuss new technology opportunities and how my skills can contribute to innovative projects.
 
 Programming: Python, Julia, SQL, PowerShell, Bash.
 
@@ -60,7 +78,7 @@ Interests: Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Fin
 - ⚡ Fun fact: ... I think I've read every book on artificial intelligence.
  
  
-<!--  <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikma03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,4 +89,4 @@ Interests: Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Fin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikma03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- -->
+
