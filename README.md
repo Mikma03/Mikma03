@@ -73,7 +73,6 @@ I'm always eager to discuss new technology opportunities and how my skills can c
 
 <p>&nbsp;</p>
 
-Programming: Python, Julia, SQL, PowerShell, Bash.
 
 Interests: Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Financial Markets.
 
