@@ -28,6 +28,8 @@
   <img src="https://drive.google.com/uc?export=view&id=1HtOHCm7JCRbTrFOUe1lOusl_GarzWIPv " />
 </p>
 
+![](https://komarev.com/ghpvc/?username=Mikma03&color=dc143c)
+
 
 <p>&nbsp;</p>
 
@@ -35,7 +37,7 @@ Software engineer & data system architect with experience in developing and deli
 
 Spearheaded the transformation of initial concepts into pioneering and practical solutions. Collaborated with diverse teams to adapt seamlessly to changing project requirements, contributing to improvement in project completion time and ensuring successful delivery of high-quality outcomes. 
 
-Demonstrated an open and curious mindset by seeking out new technologies and approaches, staying up to date with industry trends.
+Demonstrated an open and curious mindset by seeking out new technologies and approaches, and staying up to date with industry trends.
 
 <p>&nbsp;</p>
 
