@@ -34,8 +34,17 @@
 # My certs
 
 <p align="center">
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+  <a href="https://www.credly.com/earner/earned/badge/22bbdd18-4eb2-4184-9558-eb95a0d07e28">
+    <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="100" alt="Azure Data Scientist Associate"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f44a3a9a-4a7f-4fa9-9578-4f98aa2ffdc3">
+    <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="100" alt="Azure Data Engineer Associate"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/7262c9e4-6212-4455-b546-d14e549dbfb4">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="Third Certificate"/>
+  </a>
 </p>
+
 
 <p>&nbsp;</p>
 
