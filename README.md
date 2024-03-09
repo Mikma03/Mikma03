@@ -28,8 +28,14 @@
   <img src="https://drive.google.com/uc?export=view&id=1HtOHCm7JCRbTrFOUe1lOusl_GarzWIPv " />
 </p>
 
-![](https://komarev.com/ghpvc/?username=Mikma03&color=dc143c)
+<!-- Profile views -->
+<!--  ![](https://komarev.com/ghpvc/?username=Mikma03&color=dc143c) -->
 
+# My certs
+
+<p align="center">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+</p>
 
 <p>&nbsp;</p>
 
