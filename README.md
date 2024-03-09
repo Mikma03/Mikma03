@@ -47,6 +47,8 @@
 
 <p>&nbsp;</p>
 
+# Summary
+
 Software engineer & data system architect with experience in developing and delivering technical consultancy services in agile methodology & international environments. Certificated Microsoft Azure Data Engineer & Data Scientist, and AWS Solution Architect Associate.
 
 Spearheaded the transformation of initial concepts into pioneering and practical solutions. Collaborated with diverse teams to adapt seamlessly to changing project requirements, contributing to improvement in project completion time and ensuring successful delivery of high-quality outcomes. 
@@ -56,7 +58,7 @@ Demonstrated an open and curious mindset by seeking out new technologies and app
 <p>&nbsp;</p>
 
 
-Skills and Approach
+# Skills and Approach
 
 I excel in transforming initial concepts into pioneering and functional solutions. My hands-on approach focuses on seamless collaboration with diverse teams and adapting quickly to evolving project requirements. This has led to more efficient project completions and the delivery of high-quality outcomes. My core competencies include:
 
@@ -76,13 +78,13 @@ I excel in transforming initial concepts into pioneering and functional solution
 
 <p>&nbsp;</p>
 
-Personal interests:
+# Personal interests
 
 I am passionate about exploring new technologies and solutions, staying current with industry trends, and participating in workshops and conferences to expand my technical knowledge. My interests also include evolving data systems, cybersecurity, and artificial intelligence. Moreover, I'm keen on about financial markets, with an interest in leveraging data to drive investment decisions.
 
 <p>&nbsp;</p>
 
-Contact Information:
+# Contact Information
 
 For collaboration or inquiries, feel free to contact me at mikolaj@datainnovations.io
 I'm always eager to discuss new technology opportunities and how my skills can contribute to innovative projects.
@@ -90,7 +92,9 @@ I'm always eager to discuss new technology opportunities and how my skills can c
 <p>&nbsp;</p>
 
 
-Interests: Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Financial Markets.
+# Interests
+
+Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Financial Markets.
 
 
  <p>&nbsp;</p>
