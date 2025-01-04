@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Mikołaj!
 
-
 <p>&nbsp;</p>
-
 
 <a href="https://www.linkedin.com/in/miko%C5%82aj-ma%C5%9Blanka/">
   <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -19,7 +17,6 @@
 <a href="https://quantumcomputing.stackexchange.com/users/18996/mikolaj?tab=profile">
   <img alt="Qries" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white">
                          </a>
-
 
 <p>&nbsp;</p>
 
@@ -50,14 +47,11 @@
 
 # Summary
 
-Software engineer & data system architect with experience in developing and delivering technical consultancy services in agile methodology & international environments. Certificated Microsoft Azure Data Engineer & Data Scientist, and AWS Solution Architect Associate.
+Solution Architect with experience in developing and delivering technical consultancy services in agile methodology & international environments. Certificated Microsoft Azure Data Engineer & Data Scientist, and AWS Solution Architect Associate.
 
 Spearheaded the transformation of initial concepts into pioneering and practical solutions. Collaborated with diverse teams to adapt seamlessly to changing project requirements, contributing to improvement in project completion time and ensuring successful delivery of high-quality outcomes. 
 
 Demonstrated an open and curious mindset by seeking out new technologies and approaches, and staying up to date with industry trends.
-
-<p>&nbsp;</p>
-
 
 # Skills and Approach
 
@@ -77,28 +71,19 @@ I excel in transforming initial concepts into pioneering and functional solution
 
 • Ability to translate business requirements into functional products
 
-<p>&nbsp;</p>
-
 # Personal interests
 
-I am passionate about exploring new technologies and solutions, staying current with industry trends, and participating in workshops and conferences to expand my technical knowledge. My interests also include evolving data systems, cybersecurity, and artificial intelligence. Moreover, I'm keen on about financial markets, with an interest in leveraging data to drive investment decisions.
-
-<p>&nbsp;</p>
+I am passionate about exploring new technologies and solutions, staying current with industry trends, and participating in workshops and conferences to expand my technical knowledge. My interests also include evolving data systems, cybersecurity, and artificial intelligence. Moreover, I'm keen on financial markets, with an interest in leveraging data to drive investment decisions.
 
 # Contact Information
 
 For collaboration or inquiries, feel free to contact me at mikolaj@datainnovations.io
 I'm always eager to discuss new technology opportunities and how my skills can contribute to innovative projects.
 
-<p>&nbsp;</p>
-
 
 # Interests
 
 Complex Big Data Systems, Cybersecurity, Artificial Intelligence, Financial Markets.
-
-
- <p>&nbsp;</p>
 
 
 - 🔭 I’m currently working on ... Clouds system architecture, data engineering, Kubernetes.
